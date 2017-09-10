@@ -1,0 +1,33 @@
+2016-06-02 Fredrik Salomonsson <plattfot@gmail.com>
+	* 1.2.2-1
+	Fixed a warning when importing gi module that caused some issues.
+2016-02-08 Fredrik Salomonsson <plattfot@gmail.com>
+	* 1.2.1-1
+	Fixed a bug when libnotify isn't installed.
+2016-02-08 Fredrik Salomonsson <plattfot@gmail.com>
+	* 1.2.0-1
+	Added flag -p/--pool to specify where it shall look for the source files.
+2016-02-07 Fredrik Salomonsson <plattfot@gmail.com>
+	* 1.1.0-1 :
+	Added optional notification.
+	Updated support for Asus Nexus 7 and LG Nexus 5X.
+	The extension mp4 is now recognized as a video format.
+2015-12-06 Fredrik Salomonsson <plattfot@gmail.com>
+	* 1.0.0-1 :
+	Fixed a crash when given bad GPS data.
+	Better error handling when model/maker is missing.
+2015-07-05 Fredrik Salomonsson <plattfot@gmail.com>
+	* 0.4.2-1 :
+	Fixed bug when importing videos from Nikon D750
+2014-11-30 Fredrik Salomonsson <plattfot@gmail.com>
+	* 0.2.1-1 :
+	Fixed a bug that got introduce in v0.2.0,
+	Which was that it couldn't import new images/videos.
+2014-11-23 Fredrik Salomonsson <plattfot@gmail.com>
+	* 0.2.0-1 :
+	Removed hachoir-metadata dependency.
+	Move to python 3.
+2014-07-12 Fredrik Salomonsson <plattfot@gmail.com>
+	* 0.1.1-1 :
+	First release.
+
