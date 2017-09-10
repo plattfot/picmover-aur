@@ -1,0 +1,3 @@
+# Ignoring the things that gets created by makepkg
+pkg
+src
