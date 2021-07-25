@@ -1,3 +1,6 @@
+2021-07-24 Fredrik Salomonsson <plattfot@gmail.com>
+	* 1.2.3-1
+	Add support for Nikon Z series.
 2016-06-02 Fredrik Salomonsson <plattfot@gmail.com>
 	* 1.2.2-1
 	Fixed a warning when importing gi module that caused some issues.

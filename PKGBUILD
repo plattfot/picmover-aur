@@ -5,7 +5,7 @@
 
 # Maintainer: Fredrik Salomonsson <plattfot@gmail.com>
 pkgname=picmover
-pkgver=1.2.2
+pkgver=1.2.3
 pkgrel=1
 epoch=
 pkgdesc="Image and video importer/organizer."
