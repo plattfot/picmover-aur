@@ -1,4 +1,7 @@
 2021-07-24 Fredrik Salomonsson <plattfot@gmail.com>
+	* 1.2.4-1
+	Fix regex for Nikon Z series.
+2021-07-24 Fredrik Salomonsson <plattfot@gmail.com>
 	* 1.2.3-1
 	Add support for Nikon Z series.
 2016-06-02 Fredrik Salomonsson <plattfot@gmail.com>
